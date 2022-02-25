@@ -1,0 +1,30 @@
+body {
+    background-image: linear-gradient(to left, red, rgb(252, 160, 23));
+}
+
+.container {
+    padding-top: 20px;
+}
+
+.table {
+    background-color: rgb(51, 48, 48);
+    color: white;
+}
+
+.form-inline {
+    margin-top: 40px;
+    margin-bottom: 90px;
+    padding-right: 0px;
+}
+
+.btn {
+    width: 440px;
+    border-color: grey;
+    height: 70px;
+    margin-left: 20px;
+    background: tomato;
+    border-radius: 80% / 10%;
+    color: white;
+    text-align: center;
+    text-indent: .1em;
+}
